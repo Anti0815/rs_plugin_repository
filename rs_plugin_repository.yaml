@@ -1,0 +1,7 @@
+name: rs_plugin_repository
+author: Anti0815
+version: 0.1
+desc: Allows to use the resourcespace installation as an plugin repository.
+info_url: https://github.com/Anti0815/rs_plugin_repository
+config_url: /plugins/rs_plugin_repository/pages/setup.php
+
