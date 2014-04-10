@@ -8,4 +8,6 @@ $lang['rs_plugin_repository_plugin_min_rs_version_field'] = 'Select field for re
 $lang['rs_plugin_repository_plugin_name_field'] = 'Select field for plugin name';
 $lang['rs_plugin_repository_plugin_rtype'] = 'Select resource type for plugins';
 
-// error messages
+// json messages
+$lang['rs_plugin_repository']['json_up_to_date'] = 'Your version is up to date.';
+$lang['rs_plugin_repository']['json_update_available'] = "There's an update available.";
